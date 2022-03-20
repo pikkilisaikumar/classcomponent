@@ -1,0 +1,22 @@
+.table-styling {
+  background-color: lightgreen;
+  border: 2px solid black;
+  margin-top: 20px;
+}
+.table-styling-one {
+  background-color: lightblue;
+  border: 2px solid red;
+  padding-top: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
+.each-row-cell {
+  /* border: 2px solid black; */
+  padding: 15px;
+}
+
+.table-container-one {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

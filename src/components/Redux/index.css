@@ -1,0 +1,31 @@
+.loading-container-one {
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.container-one-arrow {
+  display: flex;
+  justify-content: center;
+}
+
+.saikumarimage-one {
+  height: 200px;
+  width: 200px;
+}
+
+.perpage-get-data {
+  height: 300px;
+  overflow: auto;
+}
+
+.left-arrow {
+  padding-right: 11px;
+  font-size: 20px;
+}
+.button-one {
+  background-color: transparent;
+  border-width: 0px;
+  margin-left: 3px;
+  cursor: pointer;
+}
